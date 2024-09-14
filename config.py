@@ -13,7 +13,7 @@ APP_ID = int(os.environ.get("APP_ID", "29346781"))
 API_HASH = os.environ.get("API_HASH", "75fb004873db1864a09c71cd1307bfa8")
 
 #Your db channel Id
-CHANNEL_ID = int(os.environ.get("CHANNEL_ID", "-1002075726565"))
+CHANNEL_ID = int(os.environ.get("CHANNEL_ID", "-1002015347348"))
 
 #OWNER ID
 OWNER_ID = int(os.environ.get("OWNER_ID", "6695586027"))
@@ -23,7 +23,7 @@ PORT = os.environ.get("PORT", "8585")
 
 #Database 
 #Database [https://youtu.be/qFB0cFqiyOM?si=fVicsCcRSmpuja1A]
-DB_URI = os.environ.get("DATABASE_URL", "mongodb+srv://ultroidxTeam:ultroidxTeam@cluster0.gabxs6m.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0")
+DB_URI = os.environ.get("DATABASE_URL", "mongodb+srv://amitsihag12562:WSEB9kFCoLujTJAf@cluster0.wlqrs.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0")
 DB_NAME = os.environ.get("DATABASE_NAME", "Cluster0")
 
 #Shortner (token system) 
